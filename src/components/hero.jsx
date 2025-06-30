@@ -1,5 +1,5 @@
-import leftimg from "../assets/hero-leftimg.png";
-import bottomimg from "../assets/hero-bottomimg.jpg";
+import leftimg from "/assets/hero-leftimg.png";
+import bottomimg from "/assets/hero-bottomimg.jpg";
 
 function Hero() {
   return (
